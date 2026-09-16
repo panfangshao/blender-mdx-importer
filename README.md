@@ -7,5 +7,4 @@ This is an addon for Blender that allows you to import .mdx models and animation
 The addon will work in Blender 5.2.2 LTS.
 
 
-This is a fork of Nekuromu/blender-mdx-importer version, that only supported Blender 4.54
-
+This is a fork of PavelBlends version, that only supported Blender 2.79
